@@ -8,7 +8,7 @@
 
 I am an applied computer scientist working on representation learning. I'm interested in machine learning, computer vision, and software engineering.
 ### Open-source Projects -->
-**PROJECT CATEGORY:** [Bayesian Filering](https://github.com/leparalamapara/tfilters) 
+**Python Packages:** [Bayesian Filering](https://github.com/leparalamapara/tfilters) 
 
 
 ---
