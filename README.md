@@ -1,4 +1,4 @@
-## Akram Zaytar
+## Thabang Mashinini-Sekgoto
 
 [![GitHub Badge](https://img.shields.io/github/followers/leparalamapara?style=social)](https://github.com/leparalamapara?tab=followers)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?hl=en&authuser=1&user=aLjffFkAAAAJ)
