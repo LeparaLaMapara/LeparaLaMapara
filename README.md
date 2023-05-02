@@ -6,7 +6,7 @@
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://leparalamapara.github.io/Personal/static/media/thabang_resume.8f477742.pdf)
 
 
-I am an applied computer scientist working on representation learning. I'm interested in machine learning, computer vision, and software engineering.
+I am an applied computer scientist working on representation learning. Professionally i'm interested in machine learning, computer vision, and software engineering.
 ### Open-source Projects -->
 **Python Packages:** [Bayesian Filering](https://github.com/leparalamapara/tfilters) 
 
