@@ -13,7 +13,7 @@ _______________________________________________
    - [My Bayesian Filering Python Package](https://github.com/LeparaLaMapara/tfilterpy) 
    - [Neural Networks From Scratch](https://github.com/LeparaLaMapara/ml_from_scratch) 
    - [Reservoir Computing](https://github.com/LeparaLaMapara/ESNIterativeSegmentation/tree/master) 
-   - [New Classofocation](https://github.com/LeparaLaMapara/News_Classification) 
+   - [New Classification](https://github.com/LeparaLaMapara/News_Classification) 
 
 
 
