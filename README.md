@@ -8,16 +8,15 @@
 
 I am an applied computer scientist working on representation learning. Professionally i'm interested in machine learning, computer vision, hacking and software engineering.
 ### Open-source Projects -->
-**Python Packages:** 
+**ML and Data Science:** 
   - [Bayesian Filering](https://github.com/LeparaLaMapara/tfilterpy) 
+  - [Neural Networks From Scratch](https://github.com/LeparaLaMapara/ml_from_scratch) 
   
-**Websites:** 
+**Web Development:** 
   - [My Photography Portfolio](https://realthabanglukhetho.github.io/photography/index.html) 
   - [My Photography Gallery](https://thabanglukhetho.github.io/Photography/) 
 
-** Others:**
-  - [Neural Networks From Scratch](https://github.com/LeparaLaMapara/ml_from_scratch) 
-  - 
+
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=leparalamapara&hide=contribs,prs)
