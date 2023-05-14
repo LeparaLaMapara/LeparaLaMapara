@@ -10,7 +10,7 @@ I am an applied computer scientist through research and development. Professiona
 ### Open-source Projects -->
 _______________________________________________
  **ML and Data Science:** 
-   - [Bayesian Filering](https://github.com/LeparaLaMapara/tfilterpy) 
+   - [My Bayesian Filering Python Package](https://github.com/LeparaLaMapara/tfilterpy) 
    - [Neural Networks From Scratch](https://github.com/LeparaLaMapara/ml_from_scratch) 
 
  **Web Development:** 
