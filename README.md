@@ -13,7 +13,7 @@ _______________________________________________
    - [My Bayesian Filering Python Package](https://github.com/LeparaLaMapara/tfilterpy) 
    - [Neural Networks From Scratch](https://github.com/LeparaLaMapara/ml_from_scratch) 
    - [Reservoir Computing](https://github.com/LeparaLaMapara/ESNIterativeSegmentation/tree/master) 
-   - [New Classification](https://github.com/LeparaLaMapara/News_Classification) 
+   - [NEWS Classification](https://github.com/LeparaLaMapara/News_Classification) 
 
 
 
@@ -21,6 +21,7 @@ _______________________________________________
    - [My Photography Portfolio](https://realthabanglukhetho.github.io/photography/index.html) 
    - [My Photography Gallery](https://thabanglukhetho.github.io/Photography/) 
 
+**Software Dev:** 
 
 ---
 
