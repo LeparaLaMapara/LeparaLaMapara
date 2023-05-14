@@ -9,13 +9,13 @@ __________________________________________
 I am an applied computer scientist through research and development. Professionally i'm interested in machine learning, computer vision, hacking and software engineering.
 ### Open-source Projects -->
 _______________________________________________
-  **ML and Data Science:** 
-    - [Bayesian Filering](https://github.com/LeparaLaMapara/tfilterpy) 
-    - [Neural Networks From Scratch](https://github.com/LeparaLaMapara/ml_from_scratch) 
+ **ML and Data Science:** 
+   - [Bayesian Filering](https://github.com/LeparaLaMapara/tfilterpy) 
+   - [Neural Networks From Scratch](https://github.com/LeparaLaMapara/ml_from_scratch) 
 
-  **Web Development:** 
-    - [My Photography Portfolio](https://realthabanglukhetho.github.io/photography/index.html) 
-    - [My Photography Gallery](https://thabanglukhetho.github.io/Photography/) 
+ **Web Development:** 
+   - [My Photography Portfolio](https://realthabanglukhetho.github.io/photography/index.html) 
+   - [My Photography Gallery](https://thabanglukhetho.github.io/Photography/) 
 
 
 ---
