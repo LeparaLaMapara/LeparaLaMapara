@@ -5,16 +5,17 @@
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/thabang-mashinini-0081b5b6)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://leparalamapara.github.io/Personal/static/media/thabang_resume.8f477742.pdf)
 
-
-I am an applied computer scientist working on representation learning. Professionally i'm interested in machine learning, computer vision, hacking and software engineering.
+__________________________________________
+I am an applied computer scientist through research and development. Professionally i'm interested in machine learning, computer vision, hacking and software engineering.
 ### Open-source Projects -->
-**ML and Data Science:** 
-  - [Bayesian Filering](https://github.com/LeparaLaMapara/tfilterpy) 
-  - [Neural Networks From Scratch](https://github.com/LeparaLaMapara/ml_from_scratch) 
-  
-**Web Development:** 
-  - [My Photography Portfolio](https://realthabanglukhetho.github.io/photography/index.html) 
-  - [My Photography Gallery](https://thabanglukhetho.github.io/Photography/) 
+_______________________________________________
+  **ML and Data Science:** 
+    - [Bayesian Filering](https://github.com/LeparaLaMapara/tfilterpy) 
+    - [Neural Networks From Scratch](https://github.com/LeparaLaMapara/ml_from_scratch) 
+
+  **Web Development:** 
+    - [My Photography Portfolio](https://realthabanglukhetho.github.io/photography/index.html) 
+    - [My Photography Gallery](https://thabanglukhetho.github.io/Photography/) 
 
 
 ---
