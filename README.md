@@ -3,7 +3,7 @@
 [![GitHub Badge](https://img.shields.io/github/followers/leparalamapara?style=social)](https://github.com/leparalamapara?tab=followers)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?hl=en&authuser=1&user=aLjffFkAAAAJ)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/thabang-mashinini-0081b5b6)
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://leparalamapara.github.io/Personal/static/media/thabang_resume.8f477742.pdf)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://raw.githubusercontent.com/leparalamapara/myPortfolio/master/src/Assets/Thabang_Mashinini_Resume.pdf)
 
 __________________________________________
 I am an applied computer scientist through research and development. Professionally i'm interested in machine learning, computer vision, hacking and software engineering.
