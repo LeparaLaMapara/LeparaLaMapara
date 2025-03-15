@@ -6,7 +6,9 @@
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://raw.githubusercontent.com/leparalamapara/myPortfolio/master/src/Assets/Thabang_Mashinini_Resume.pdf)
 
 __________________________________________
-I am an applied computer scientist through research and development. Professionally i'm interested in machine learning, computer vision, hacking and software engineering.
+I am an applied computer scientist specializing in research and development, with a deep focus on machine learning, computer vision, hacking, and software engineering. My work bridges cutting-edge AI research with real-world applications, optimizing complex systems at scale.
+
+Beyond technical expertise, I am also a serial entrepreneur, having co-founded multiple businesses—some of which I have successfully exited. My passion lies at the intersection of AI, innovation, and building scalable solutions that push boundaries.
 ### Open-source Projects -->
 _______________________________________________
  **ML, Data Science & MLOPs:** 
