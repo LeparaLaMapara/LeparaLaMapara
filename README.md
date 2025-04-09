@@ -12,7 +12,7 @@ Beyond technical expertise, I am also a serial entrepreneur, having co-founded m
 ### Open-source Projects -->
 _______________________________________________
  **ML, Data Science & MLOPs:** 
-   - [CoFounder_of_Ubunye Artificial_Intelligence_Ecosystems]([https://github.com/LeparaLaMapara/tfilterpy](https://github.com/ubunye-ai-ecosystems)
+   - [CoFounder of Ubunye Artificial Intelligence Ecosystems](https://github.com/ubunye-ai-ecosystem)
    - [Neural Networks From Scratch](https://github.com/LeparaLaMapara/ml_from_scratch) 
    - [Reservoir Computing](https://github.com/LeparaLaMapara/ESNIterativeSegmentation/tree/master) 
    - [NEWS Classification](https://github.com/LeparaLaMapara/News_Classification) 
