@@ -1,25 +1,26 @@
 ## Thabang Mashinini-Sekgoto
 
-**Lead Data Scientist · AI researcher · Founder of [Ubunye AI Ecosystems](https://github.com/ubunye-ai-ecosystems)**
+**Applied AI · Data Science · AI Engineering · Research · Founder of [Ubunye AI Ecosystems](https://github.com/ubunye-ai-ecosystems)**
 Johannesburg, South Africa · from Soshanguve
 
 [![Website](https://img.shields.io/badge/Website-tmashininisekgoto.com-b5501e)](https://www.tmashininisekgoto.com)
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://www.tmashininisekgoto.com/scholar)
 [![LinkedIn](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/thabang-mashinini-0081b5b6)
-[![CV](https://img.shields.io/badge/My-CV-critical)](https://www.tmashininisekgoto.com/resume.pdf)
+[![CV](https://img.shields.io/badge/My-CV-critical)](https://www.tmashininisekgoto.com/resume)
 [![Followers](https://img.shields.io/github/followers/leparalamapara?style=social)](https://github.com/leparalamapara?tab=followers)
 
 ---
 
-I build machine learning systems that run in production, and I write about how.
-Ten years across banking, insurance, telecoms and research: enterprise ML platforms,
-Spark and Databricks pipelines at scale, and the unglamorous engineering that keeps
-models alive after the notebook is closed.
+I build machine learning and data systems that run in production, and I write about
+how. Nine years across banking, insurance, telecoms and research: enterprise ML
+platforms, Spark and Databricks pipelines at scale, and the unglamorous engineering
+that keeps models alive after the notebook is closed. That experience pushed me
+toward engineering reusable infrastructure and applied research.
 
-PhD candidate at the University of the Witwatersrand, working on **physics-informed
-self-supervised learning for SAR-based flood extent mapping** — remote sensing,
-self-supervised learning and computational hydrology, aimed at insurance risk in
-data-scarce regions.
+I am preparing doctoral research at the University of the Witwatersrand on
+**physics-informed self-supervised learning for SAR-based flood extent mapping** —
+remote sensing, self-supervised learning and computational hydrology, aimed at
+insurance risk in data-scarce regions. (Proposal stage; not yet registered.)
 
 Everything I build in the open goes through [Ubunye AI Ecosystems](https://github.com/ubunye-ai-ecosystems),
 an organisation for producing serious open source *from* Africa rather than only
@@ -62,9 +63,6 @@ and long-range seasonal temperature forecasting. Full list, with BibTeX for ever
 **[Kasilam Digital Platforms](https://kasilamdigitialplatforms.vercel.app/)** — free websites
 for township businesses, built with the same tools I use professionally. Seven live sites
 shipped at no cost to their owners.
-
-**[ThabangVision](https://thabangvision.com)** — a marketplace to book South African
-photographers, videographers and gear.
 
 ---
 
