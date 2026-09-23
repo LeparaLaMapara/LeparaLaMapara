@@ -5,7 +5,7 @@ South Africa · from Soshanguve
 
 [![Website](https://img.shields.io/badge/Website-tmashininisekgoto.com-ffd23f?labelColor=111111)](https://www.tmashininisekgoto.com)
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://www.tmashininisekgoto.com/scholar)
-[![LinkedIn](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/thabang-mashinini-0081b5b6)
+[![LinkedIn](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/thabang-mashinini-sekgoto)
 [![CV](https://img.shields.io/badge/My-CV-critical)](https://www.tmashininisekgoto.com/resume)
 [![Followers](https://img.shields.io/github/followers/leparalamapara?style=social)](https://github.com/leparalamapara?tab=followers)
 
