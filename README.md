@@ -19,13 +19,15 @@ serious open source made *in* Africa, not only used here.
 
 ### Hop on here
 
-| | |
-|---|---|
-| 🚐 **[Agent Roadmap Kit](https://github.com/LeparaLaMapara/agent-roadmap-kit)** | Six stops to one working AI assistant that answers from your own notes. Free, and it runs offline. |
-| ⚙️ **[Ubunye Engine](https://github.com/ubunye-ai-ecosystems/ubunye_engine)** | Describe a Spark pipeline once, run the same folder on a laptop, Docker, Kubernetes or Databricks. `pip install ubunye-engine` |
-| 📡 **[tfilterspy](https://github.com/ubunye-ai-ecosystems/tfilterspy)** | Kalman, Particle and Ensemble filters with a scikit learn style API. For sensors that lie. |
-| 🧪 **[Ubunye Examples](https://github.com/ubunye-ai-ecosystems/ubunye-examples)** | Worked pipelines on Databricks. The proof the engine does what it says. |
-| 🌍 **[Kasilam Digital Platforms](https://kasilamdigitialplatforms.vercel.app/)** | Young people in townships learn to build with AI by shipping sites for local businesses. I teach, they build. |
+<p align="center">
+  <a href="https://github.com/LeparaLaMapara/agent-roadmap-kit"><img src="assets/card-agent-roadmap-kit.svg" width="49%" alt="Agent Roadmap Kit"></a> <a href="https://github.com/ubunye-ai-ecosystems/ubunye_engine"><img src="assets/card-ubunye-engine.svg" width="49%" alt="Ubunye Engine"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/ubunye-ai-ecosystems/tfilterspy"><img src="assets/card-tfilterspy.svg" width="49%" alt="tfilterspy"></a> <a href="https://github.com/ubunye-ai-ecosystems/ubunye-examples"><img src="assets/card-ubunye-examples.svg" width="49%" alt="Ubunye Examples"></a>
+</p>
+<p align="center">
+  <a href="https://kasilamdigitialplatforms.vercel.app/"><img src="assets/card-kasilam.svg" width="49%" alt="Kasilam Digital Platforms"></a> <a href="https://github.com/ubunye-ai-ecosystems"><img src="assets/card-ubunye-org.svg" width="49%" alt="Ubunye AI Ecosystems"></a>
+</p>
 
 ### Rank board
 

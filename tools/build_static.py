@@ -146,8 +146,58 @@ def fareboard():
 </svg>"""
 
 
+CARDS = [
+    ("agent-roadmap-kit", "01", "AGENT ROADMAP KIT", "Six stops to one working AI assistant that answers from your own notes. Free, and it runs offline.", "START HERE", YELLOW, BLACK),
+    ("ubunye-engine", "02", "UBUNYE ENGINE", "Describe a Spark pipeline once. Run the same folder on a laptop, Docker, Kubernetes or Databricks.", "PIP INSTALL UBUNYE-ENGINE", BLACK, YELLOW),
+    ("tfilterspy", "03", "TFILTERSPY", "Kalman, Particle and Ensemble filters with a scikit learn style API. For sensors that lie.", "BAYESIAN FILTERING", WHITE, BLACK),
+    ("ubunye-examples", "04", "UBUNYE EXAMPLES", "Worked pipelines on Databricks. The proof the engine does what it says.", "DATABRICKS", RED, WHITE),
+    ("kasilam", "05", "KASILAM", "Young people in townships learn to build with AI by shipping sites for local businesses. I teach, they build.", "COMMUNITY", GREEN, WHITE),
+    ("ubunye-org", "06", "ALL ROUTES", "Everything I build in the open lives at Ubunye AI Ecosystems. Open source made in Africa.", "UBUNYE AI ECOSYSTEMS", WHITE, BLACK),
+]
+
+
+def wrap(text, size, max_w):
+    lines, cur = [], ""
+    for word in text.split():
+        trial = f"{cur} {word}".strip()
+        if width(trial, "WorkSans", size, wght=500) > max_w and cur:
+            lines.append(cur)
+            cur = word
+        else:
+            cur = trial
+    return lines + [cur]
+
+
+def card(num, title, blurb, strip, bg, fg):
+    w, h = 480, 210
+    ink = BLACK if bg in (YELLOW, WHITE) else WHITE
+    badge_bg, badge_fg = (BLACK, YELLOW) if bg != BLACK else (YELLOW, BLACK)
+    tsize = 30 if width(title, "Bungee-Regular", 30) < 380 else 24
+    parts = [
+        f'<rect x="10" y="10" width="{w - 14}" height="{h - 14}" fill="{BLACK}"/>',
+        f'<rect x="4" y="4" width="{w - 14}" height="{h - 14}" fill="{bg}" stroke="{BLACK}" stroke-width="4"/>',
+        f'<rect x="4" y="4" width="{w - 14}" height="10" fill="{RED if bg != RED else BLACK}"/>',
+        f'<rect x="4" y="14" width="{w - 14}" height="6" fill="{GREEN if bg != GREEN else BLACK}"/>',
+        f'<rect x="20" y="30" width="98" height="24" fill="{badge_bg}"/>',
+        f'<path d="{path(f"ROUTE {num}", "Bungee-Regular", 14, 69, 48, anchor="middle")}" fill="{badge_fg}"/>',
+        f'<path d="{path(title, "Bungee-Regular", tsize, 20, 94)}" fill="{fg}"/>',
+    ]
+    for i, line in enumerate(wrap(blurb, 16, w - 52)[:3]):
+        parts.append(f'<path d="{path(line, "WorkSans", 16, 21, 124 + i * 21, wght=500)}" fill="{ink}" opacity=".92"/>')
+    parts += [
+        f'<rect x="4" y="{h - 42}" width="{w - 14}" height="32" fill="{BLACK}"/>',
+        f'<path d="{path(strip, "Doto", 17, 20, h - 20, wght=900)}" fill="{AMBER}"/>',
+        f'<path d="{path("HOP ON", "Bungee-Regular", 14, w - 24, h - 20, anchor="end")}" fill="{YELLOW}"/>',
+    ]
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {w} {h}" width="{w}" height="{h}" role="img" aria-label="Route {num}: {title.title()}. {blurb}">
+{"".join(parts)}
+</svg>"""
+
+
 if __name__ == "__main__":
     OUT.mkdir(exist_ok=True)
     for name, svg in (("banner.svg", banner()), ("fareboard.svg", fareboard())):
         (OUT / name).write_text(svg, encoding="utf-8")
         print(name, len(svg))
+    for slug, *rest in CARDS:
+        (OUT / f"card-{slug}.svg").write_text(card(*rest), encoding="utf-8")
