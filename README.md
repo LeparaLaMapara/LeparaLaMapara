@@ -36,7 +36,7 @@ serious open source made *in* Africa, not only used here.
 |---|---|
 | **Latest from the blog** | [What the Road Makes Possible](https://www.tmashininisekgoto.com/blog/data-team-what-it-makes-possible)<br>[Stage 5: Trust Your People, Then Let Go](https://www.tmashininisekgoto.com/blog/data-team-trust-and-let-go)<br>[Stage 4: When People Push Back, Show Them](https://www.tmashininisekgoto.com/blog/data-team-when-they-push-back) |
 | **Ubunye Engine** | [v0.8.0 on PyPI](https://pypi.org/project/ubunye-engine/), 600 downloads in the last month |
-| **Last public trip** | [LeparaLaMapara/LeparaLaMapara](https://github.com/LeparaLaMapara/LeparaLaMapara) on 2026-11-08 |
+| **Last public trip** | [ubunye-ai-ecosystems/ubunye-creative-light](https://github.com/ubunye-ai-ecosystems/ubunye-creative-light) on 2026-11-07 |
 
 <sub>The rank marshal updates this board every morning. Last update 2026-11-08.</sub>
 <!-- RANK-BOARD:END -->
