@@ -1,88 +1,83 @@
-## Thabang Mashinini-Sekgoto
+<p align="center">
+  <a href="https://www.tmashininisekgoto.com">
+    <img src="assets/banner.svg" width="100%" alt="Taxi destination board reading Soshanguve to production. Thabang Mashinini-Sekgoto. AI systems built here. Open daily.">
+  </a>
+</p>
 
-**Applied AI · Data Science · AI Engineering · Research · Founder of [Ubunye AI Ecosystems](https://github.com/ubunye-ai-ecosystems)**
-South Africa · from Soshanguve
+<p align="center">
+  <a href="https://www.tmashininisekgoto.com"><img src="https://img.shields.io/badge/WEBSITE-ffd23f?style=for-the-badge&labelColor=111111" alt="Website"></a>
+  <a href="https://www.tmashininisekgoto.com/blog"><img src="https://img.shields.io/badge/BLOG-111111?style=for-the-badge" alt="Blog"></a>
+  <a href="https://www.tmashininisekgoto.com/scholar"><img src="https://img.shields.io/badge/SCHOLAR-1b7f3b?style=for-the-badge" alt="Google Scholar"></a>
+  <a href="https://www.linkedin.com/in/thabang-mashinini-sekgoto"><img src="https://img.shields.io/badge/LINKEDIN-d62828?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://www.tmashininisekgoto.com/resume"><img src="https://img.shields.io/badge/CV-ffd23f?style=for-the-badge&labelColor=111111" alt="CV"></a>
+</p>
 
-[![Website](https://img.shields.io/badge/Website-tmashininisekgoto.com-ffd23f?labelColor=111111)](https://www.tmashininisekgoto.com)
-[![Google Scholar](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://www.tmashininisekgoto.com/scholar)
-[![LinkedIn](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/thabang-mashinini-sekgoto)
-[![CV](https://img.shields.io/badge/My-CV-critical)](https://www.tmashininisekgoto.com/resume)
-[![Followers](https://img.shields.io/github/followers/leparalamapara?style=social)](https://github.com/leparalamapara?tab=followers)
+I build machine learning and data systems that run in production, from Soshanguve.
+Nine years across insurance, telecommunications, research and higher education.
+Everything I build in the open goes through [Ubunye AI Ecosystems](https://github.com/ubunye-ai-ecosystems):
+serious open source made *in* Africa, not only used here.
 
----
+### Hop on here
 
-I build machine learning and data systems that run in production, and I write about
-how. Nine years across insurance, telecommunications, applied research and higher
-education: enterprise ML platforms, Spark and Databricks pipelines at scale, and the
-unglamorous engineering that keeps models alive after the notebook is closed. That
-experience pushed me toward reusable infrastructure and applied research.
+| | |
+|---|---|
+| 🚐 **[Agent Roadmap Kit](https://github.com/LeparaLaMapara/agent-roadmap-kit)** | Six stops to one working AI assistant that answers from your own notes. Free, and it runs offline. |
+| ⚙️ **[Ubunye Engine](https://github.com/ubunye-ai-ecosystems/ubunye_engine)** | Describe a Spark pipeline once, run the same folder on a laptop, Docker, Kubernetes or Databricks. `pip install ubunye-engine` |
+| 📡 **[tfilterspy](https://github.com/ubunye-ai-ecosystems/tfilterspy)** | Kalman, Particle and Ensemble filters with a scikit learn style API. For sensors that lie. |
+| 🧪 **[Ubunye Examples](https://github.com/ubunye-ai-ecosystems/ubunye-examples)** | Worked pipelines on Databricks. The proof the engine does what it says. |
+| 🌍 **[Kasilam Digital Platforms](https://kasilamdigitialplatforms.vercel.app/)** | Young people in townships learn to build with AI by shipping sites for local businesses. I teach, they build. |
 
-I am preparing doctoral research at the University of the Witwatersrand on
-**physics informed self supervised learning for SAR based flood extent mapping**:
-remote sensing, self supervised learning and computational hydrology, aimed at
-insurance risk in data scarce regions. (Proposal stage; not yet registered.)
+### Rank board
 
-Everything I build in the open goes through [Ubunye AI Ecosystems](https://github.com/ubunye-ai-ecosystems),
-an organisation for producing serious open source *from* Africa rather than only
-consuming it.
+<!-- RANK-BOARD:START -->
+| | |
+|---|---|
+| **Latest from the blog** | [What the Road Makes Possible](https://www.tmashininisekgoto.com/blog/data-team-what-it-makes-possible)<br>[Stage 5: Trust Your People, Then Let Go](https://www.tmashininisekgoto.com/blog/data-team-trust-and-let-go)<br>[Stage 4: When People Push Back, Show Them](https://www.tmashininisekgoto.com/blog/data-team-when-they-push-back) |
+| **Ubunye Engine** | [v0.8.0 on PyPI](https://pypi.org/project/ubunye-engine/), 600 downloads in the last month |
+| **Last public trip** | [ubunye-ai-ecosystems/ubunye-creative-film](https://github.com/ubunye-ai-ecosystems/ubunye-creative-film) on 2026-11-07 |
 
----
+<sub>The rank marshal updates this board every morning. Last update 2026-11-07.</sub>
+<!-- RANK-BOARD:END -->
 
-### Start here
+### Passengers picked up
 
-**[Agent Roadmap Kit](https://github.com/LeparaLaMapara/agent-roadmap-kit)**: the free, hands on
-companion to my six part series on building with AI agents. Six stops, one working assistant
-that answers questions from your own notes, with tools, search by meaning, safety, tests and
-CI. Runs on Gemini's free tier, a local model through Ollama, or fully offline.
-[Read the series](https://www.tmashininisekgoto.com/blog/how-i-used-ai-to-build-this-site).
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/taxi-dark.svg">
+  <img src="assets/taxi-light.svg" width="100%" alt="A minibus taxi drives past the contribution graph and picks up the last year of contributions.">
+</picture>
 
-### Open source
+<details>
+<summary><b>Research</b>: floods from space, echo state networks, mines</summary>
+<br>
 
-**[Ubunye Engine](https://github.com/ubunye-ai-ecosystems/ubunye_engine)**: a config driven,
-Spark native framework for data and ML pipelines. Describe a pipeline once as a folder of
-config plus Python, then run that exact folder on a laptop, Docker, Kubernetes or Databricks.
-A build job runs one pipeline on five execution environments and fails if the outputs differ.
-`pip install ubunye-engine`
+I am preparing doctoral research at Wits on **physics informed self supervised learning for SAR based flood extent mapping**,
+aimed at insurance risk in data scarce regions. It is at proposal stage and not yet registered.
 
-**[tfilterspy](https://github.com/ubunye-ai-ecosystems/tfilterspy)**: Bayesian filtering in
-Python. Kalman, Particle and Ensemble filters behind a scikit learn style API, scaling out
-with Dask. For anyone estimating true state from sensors that lie.
+**[Echo State Networks for image segmentation](https://github.com/LeparaLaMapara/ESNIterativeSegmentation)** is the code behind my MSc at Wits:
+level set segmentation learned as a problem in space and time.
+[The research, line by line](https://www.tmashininisekgoto.com/research/echo-state-networks-level-set-segmentation).
 
-**[Ubunye Examples](https://github.com/ubunye-ai-ecosystems/ubunye-examples)**: worked,
-deployable pipelines on Databricks. The proof the framework does what it claims.
+**[Ubuntu CFD](https://github.com/LeparaLaMapara/ubuntu-cfd-AI)** is an agent that discovers its cost function instead of optimising a fixed one.
+It argues that fixed extractive objectives are mathematically unstable over long horizons, not only ethically wrong.
 
-**[Ubuntu CFD](https://github.com/LeparaLaMapara/ubuntu-cfd-AI)**: research. Cost function
-discovery under Ubuntu constraints: an agent that discovers cost functions rather than
-optimising a fixed objective, arguing that fixed extractive objectives are mathematically
-destabilising over long horizons, not only ethically wrong.
+Published work covers hearing loss estimation in mine workers, noise policy for mining and long range seasonal temperature forecasting.
+[Every paper, with BibTeX](https://www.tmashininisekgoto.com/publications).
 
-### Research
+</details>
 
-**[Echo State Networks for image segmentation](https://github.com/LeparaLaMapara/ESNIterativeSegmentation)**:
-code behind my MSc dissertation at Wits, learning variational level set segmentation as a
-spatiotemporal problem. [The research, line by line](https://www.tmashininisekgoto.com/research/echo-state-networks-level-set-segmentation).
+<details>
+<summary><b>Writing</b>: AI engineering, MLOps, Spark, building in South Africa</summary>
+<br>
 
-Published work on hearing loss estimation in mine workers, noise policy systems for mining,
-and long range seasonal temperature forecasting. Full list, with BibTeX for every paper:
-**[tmashininisekgoto.com/publications](https://www.tmashininisekgoto.com/publications)**
+**The Practical Roadmap to Building With AI Agents** is a six part series where every post ends with something you can run.
+[Start the series](https://www.tmashininisekgoto.com/blog/how-i-used-ai-to-build-this-site).
 
-### Community
+[Blog](https://www.tmashininisekgoto.com/blog) · [dev.to](https://dev.to/thabanglukheth0) · [RSS](https://www.tmashininisekgoto.com/feed.xml)
 
-**[Kasilam Digital Platforms](https://kasilamdigitialplatforms.vercel.app/)**: a free community
-initiative where young people in South African townships learn to build with AI by shipping
-real sites for local businesses. I teach; the participants build.
+</details>
 
----
+<p align="center">
+  <img src="assets/fareboard.svg" width="100%" alt="Fare board of the tools I work with: Python, Apache Spark, Databricks, PyTorch, MLflow, Airflow, Kubernetes, TypeScript.">
+</p>
 
-### Writing
-
-I write about AI engineering, MLOps, Spark and Databricks, and building systems in South
-Africa, including **The Practical Roadmap to Building With AI Agents**, a six part series
-where every post ends with something you can run.
-
-**[tmashininisekgoto.com/blog](https://www.tmashininisekgoto.com/blog)** · also on
-[dev.to](https://dev.to/thabanglukheth0) · [RSS](https://www.tmashininisekgoto.com/feed.xml)
-
----
-
-<sub>Working with: Python · Apache Spark · Databricks · PyTorch · Kubernetes · MLflow · Airflow · TypeScript</sub>
+<p align="center"><sub>Sharp sharp. Shout <b>"short left"</b> and I'll stop at your issue.</sub></p>
