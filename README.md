@@ -38,7 +38,7 @@ serious open source made *in* Africa, not only used here.
 | **Ubunye Engine** | [v0.9.3 on PyPI](https://pypi.org/project/ubunye-engine/), 600 downloads in the last month |
 | **Last public trip** | [ubunye-ai-ecosystems/ubunye_engine](https://github.com/ubunye-ai-ecosystems/ubunye_engine) on 2026-11-10 |
 
-<sub>The rank marshal updates this board every morning. Last update 2026-11-11.</sub>
+<sub>The rank marshal updates this board every morning. Last update 2026-11-12.</sub>
 <!-- RANK-BOARD:END -->
 
 ### Passengers picked up
