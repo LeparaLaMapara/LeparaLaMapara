@@ -35,10 +35,10 @@ serious open source made *in* Africa, not only used here.
 | | |
 |---|---|
 | **Latest from the blog** | [What the Road Makes Possible](https://www.tmashininisekgoto.com/blog/data-team-what-it-makes-possible)<br>[Stage 5: Trust Your People, Then Let Go](https://www.tmashininisekgoto.com/blog/data-team-trust-and-let-go)<br>[Stage 4: When People Push Back, Show Them](https://www.tmashininisekgoto.com/blog/data-team-when-they-push-back) |
-| **Ubunye Engine** | [v0.9.3 on PyPI](https://pypi.org/project/ubunye-engine/), 722 downloads in the last month |
-| **Last public trip** | [ubunye-ai-ecosystems/ubunye-creative-light](https://github.com/ubunye-ai-ecosystems/ubunye-creative-light) on 2026-11-15 |
+| **Ubunye Engine** | [v0.9.3 on PyPI](https://pypi.org/project/ubunye-engine/), 716 downloads in the last month |
+| **Last public trip** | [LeparaLaMapara/thabangvision-app](https://github.com/LeparaLaMapara/thabangvision-app) on 2026-11-15 |
 
-<sub>The rank marshal updates this board every morning. Last update 2026-11-16.</sub>
+<sub>The rank marshal updates this board every morning. Last update 2026-11-17.</sub>
 <!-- RANK-BOARD:END -->
 
 ### Passengers picked up
